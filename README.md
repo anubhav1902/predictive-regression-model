@@ -1,4 +1,4 @@
-# predictive-regression-model
+
 # 📊 Predictive Regression Model
 
 This project demonstrates the use of **Regression Analysis** to build a predictive model using Python. It is ideal for those learning machine learning basics and want a hands-on experience with regression techniques using Jupyter Notebook.
